@@ -91,7 +91,7 @@
 		"eslint-plugin-prefer-let": "^3.0.1",
 		"eslint-plugin-promise": "^6.0.0",
 		"expect-assert": "0.0.2",
-		"mocha": "^9.1.3",
+		"mocha": "^9.2.2",
 		"nock": "^13.1.4",
 		"nyc": "^15.1.0"
 	},
